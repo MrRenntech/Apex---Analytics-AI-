@@ -1,14 +1,12 @@
-<div align="center">
-  <img src="assets/banner.png" alt="Banner" width="100%" />
-  
-  <br/>
-  
-  ![Python](https://img.shields.io/badge/Python-Dynamic-blue?style=for-the-badge&logo=python&logoColor=white)
-  ![License](https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge)
-  ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-</div>
+<p align="center"><img src="assets/github-banner.svg" alt="APEX ANALYTICS AI" width="100%" /></p>
 
+<h1 align="center">APEX ANALYTICS AI</h1>
 
+<p align="center">An employee-retention analytics application with predictive insights and executive dashboards.</p>
+
+<p align="center"><sub>Python · Flask · Machine Learning</sub></p>
+
+---
 
 ## 🎤 Presentation & Deep Dive Materials
 
@@ -28,7 +26,7 @@ We have constructed a comprehensive suite of presentation-ready documents design
 The fully functional production application is currently live on Render:
 👉 **[Access Apex Analytics Here](https://ai-employee-retention.onrender.com/)**
 
-*(For security and system health, the app requires authentication. If deployed locally, you can initialize the DB using `python app/init_db.py` to generate the default `admin`/`password` account.)*
+*(The live app requires authentication. For local use, initialize the database with `python app/init_db.py` and create a unique administrator password before deployment.)*
 
 ---
 
